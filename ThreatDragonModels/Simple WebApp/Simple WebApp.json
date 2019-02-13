@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "Simple WebApp",
+    "owner": "Ameya V Sohoni",
+    "description": "Demo App"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Demo",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Raghu SV"
+  }
+}
